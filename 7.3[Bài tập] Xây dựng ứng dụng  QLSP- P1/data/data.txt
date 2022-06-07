@@ -1,17 +1,1 @@
-[
-  {
-    "id": 1,
-    "name": "iphone 11",
-    "price": 20000
-  },
-  {
-    "id": 2,
-    "name": "iphone 12",
-    "price": 30000
-  },
-  {
-    "id": 3,
-    "name": "Samsung Note 21",
-    "price": 40000
-  }
-]
+[{"id":1,"name":"iphone 11","price":20000},{"id":2,"name":"iphone 12","price":30000},{"id":3,"name":"Samsung Note 21","price":40000},{"id":"03","name":"Vanna Lloyd","price":"254"},{"id":"03","name":"Vanna Lloyd","price":"254"},{"id":"06","name":"Germaine Sutton","price":"563"},{"id":"09","name":" haido","price":"7000"},{"id":"10","name":"ha","price":""},{"id":"11","name":" haido","price":"1000"},{"id":"13","name":"Iphone","price":"2000"}]
